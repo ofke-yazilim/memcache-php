@@ -2,7 +2,7 @@
 Php 7.0.23 Memcache Wamp Server  Windows
 <br>
 <strong>
-  <em>Uygulama 7.4 Netbeans derleyicisi kullanılarak yazılmıştır. Php 7.0.23 programlama dili kodlanmıştır.</em>
+  <em>Uygulama 7.4 Netbeans derleyicisi kullanılarak yazılmıştır. Php 7.0.23 programlama dili ile kodlanmıştır.</em>
 </strong>
 <br>
 <br>
