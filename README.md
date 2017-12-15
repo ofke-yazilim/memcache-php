@@ -1,5 +1,10 @@
 # memcache-php
 Php 7.0.23 Memcache Wamp Server  Windows
+<strong>
+  <em>Uygulama 7.4 Netbeans derleyicisi kullanılarak yazılmıştır. Php 7.0.23 programlama dili kodlanmıştır.</em>
+</strong>
+<br>
+<br>
 <h1>Windows Üzerine Memcache Kurulumu</h1>
 <ul>
 <li>
@@ -17,4 +22,10 @@ Php 7.0.23 Memcache Wamp Server  Windows
   https://commaster.net/content/installing-memcached-windows adresinden işletim sistemimize uygun exe indirlir ve çalıştırılır 
   ve sürekli çalışır vaziyette bırakılır.
 </li>
+</ul>
+
+<h1>Memcahe Fonksiyonları ve Kullanımı</h1>
+<ul>
+  <li>Örnek fonksiyonları incelmek için : https://github.com/ofke-yazilim/memcache-php/blob/master/memcache/memcache.php</li>
+  <li>Örnek kullanım için : https://github.com/ofke-yazilim/memcache-php/blob/master/memcache/index.php</li>
 </ul>
